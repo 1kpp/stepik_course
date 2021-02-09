@@ -1,1 +1,1 @@
-# stepik_course
+# stepik_course: python + selenium.Webdriver
