@@ -1,5 +1,4 @@
 from selenium import webdriver
-from selenium.webdriver.support.ui import Select
 import math
 
 #define a function wich calculates and returnes the result in accordance with the "X"
